@@ -20,10 +20,10 @@ namespace SeleniumTask.Methods
                 Console.WriteLine("Text is entered");
                 Logger.logger.Debug("Text is entered");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Logger.logger.Error("Text is not entered");
-                throw new Exception(String.Format("Text is not entered", ex.StackTrace));
+                throw new Exception("Text is not entered");
             }
         }
         public static void Click(IWebElement element)
@@ -34,10 +34,10 @@ namespace SeleniumTask.Methods
                 Console.WriteLine("Clicked");
                 Logger.logger.Debug("Clicked");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Logger.logger.Error("Not clicked");
-                throw new Exception(String.Format("Not clicked", ex.StackTrace));
+                throw new Exception("Not clicked");
             }
         }
         public static void Submit(IWebElement element)
@@ -48,10 +48,10 @@ namespace SeleniumTask.Methods
                 Console.WriteLine("Submited");
                 Logger.logger.Debug("Submited");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Logger.logger.Error("Not submited");
-                throw new Exception(String.Format("Not submited", ex.StackTrace));
+                throw new Exception("Not submited");
             }
         }
         public static void Clear(IWebElement element)
@@ -62,10 +62,10 @@ namespace SeleniumTask.Methods
                 Console.WriteLine("Cleared");
                 Logger.logger.Debug("Cleared");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Logger.logger.Error("Not cleared");
-                throw new Exception(String.Format("Not cleared", ex.StackTrace));
+                throw new Exception("Not cleared");
             }
 
         }
@@ -92,10 +92,10 @@ namespace SeleniumTask.Methods
                 Console.WriteLine("Enabled");
                 Logger.logger.Debug("Enabled");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Logger.logger.Error("Not enabled");
-                throw new Exception(String.Format("Not enabled", ex.StackTrace));
+                throw new Exception("Not enabled");
             }
         }
         public static void Displayed(IWebElement element)
@@ -106,10 +106,10 @@ namespace SeleniumTask.Methods
                 Console.WriteLine("Displayed");
                 Logger.logger.Debug("Displayed");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Logger.logger.Error("Not displayed");
-                throw new Exception(String.Format("Not displayed", ex.StackTrace));
+                throw new Exception("Not displayed");
             }
         }
         public static void Start(string stepname, string stepnumber)
@@ -137,10 +137,10 @@ namespace SeleniumTask.Methods
                 }
 
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
                 Logger.logger.Error("Displayed");
-                throw new Exception(String.Format("Displayed! {0}", e.StackTrace));
+                throw new Exception(String.Format("Displayed! {0}", ex.StackTrace));
             }
         }
 
