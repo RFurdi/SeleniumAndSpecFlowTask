@@ -5642,11 +5642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\Task\\SpecFlowSaucedemo\\SpecFlowSaucedemo.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\SpecFlowSaucedemo\\SpecFlowSaucedemo.csproj",
       "projectName": "SpecFlowSaucedemo",
-      "projectPath": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\Task\\SpecFlowSaucedemo\\SpecFlowSaucedemo.csproj",
+      "projectPath": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\SpecFlowSaucedemo\\SpecFlowSaucedemo.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\Task\\SpecFlowSaucedemo\\obj\\",
+      "outputPath": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\SpecFlowSaucedemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5667,8 +5667,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\Task\\SeleniumTask\\SeleniumTask.csproj": {
-              "projectPath": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\Task\\SeleniumTask\\SeleniumTask.csproj"
+            "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\SeleniumTask\\SeleniumTask.csproj": {
+              "projectPath": "C:\\Users\\rober\\OneDrive - ahqb\\Desktop\\SeleniumAndSpecFlowTask\\SeleniumTask\\SeleniumTask.csproj"
             }
           }
         }

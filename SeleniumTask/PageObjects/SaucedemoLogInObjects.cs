@@ -26,11 +26,11 @@ namespace SeleniumTask.PageObjects
             {
                 SetMethods.Start("Loads web page:https://www.saucedemo.com/", "1");
                 GetMethods.PageLoaded(WebDriver.driver.Url, "saucedemo");
-                Console.WriteLine("Username text box:");
+                Console.WriteLine("Username textbox:");
                 SetMethods.Displayed(txtboxUsername);
                 SetMethods.Enabled(txtboxUsername);
                 SetMethods.Empty(txtboxUsername);
-                Console.WriteLine("Password tex box:");
+                Console.WriteLine("Password textbox:");
                 SetMethods.Displayed(txtboxPassword);
                 SetMethods.Enabled(txtboxPassword);
                 SetMethods.Empty(txtboxPassword);
@@ -169,7 +169,7 @@ namespace SeleniumTask.PageObjects
             }
             catch (Exception ex)
             {
-                throw new Exception(String.Format("Test failed{0}", ex.StackTrace));
+                throw new Exception(String.Format("Test failed", ex.StackTrace));
             }
 
         }

@@ -116,7 +116,6 @@ namespace SeleniumTask.PageObjects
                 SetMethods.Start("Clicks Sauce Labs Bike Light ADD TO CART button", "5");
                 SetMethods.Click(btnAddtocart);
                 text = GetMethods.GetText(btnAddtocart);
-                //SetMethods.Hidden(btnX);
                 GetMethods.VerifyText(text, "REMOVE");
 
                 Console.WriteLine("REMOVE button:");

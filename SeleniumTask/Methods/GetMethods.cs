@@ -25,12 +25,12 @@ namespace SeleniumTask.Methods
             {
                 Assert.IsTrue(URL.Contains(condition), condition);
                 Console.WriteLine("Correct page loaded");
-                Logger.logger.Debug(String.Format("Correct page loaded", URL));
+                Logger.logger.Debug("Correct page loaded");
 
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("Wrong page loaded", URL));
+                Logger.logger.Error("Wrong page loaded");
                 throw new Exception(String.Format("Wrong page loaded", ex.StackTrace));
             }
 
@@ -64,14 +64,14 @@ namespace SeleniumTask.Methods
 
                     if (text.Contains(productinfo))
                     {
-                        Console.WriteLine(String.Format("'{0}' is displayed", productinfo));
-                        Logger.logger.Debug(String.Format("{0} is displayed", productinfo));
+                        Console.WriteLine(String.Format("Is displayed", productinfo));
+                        Logger.logger.Debug(String.Format("Is displayed", productinfo));
                         return;
                     }
 
                 }
-                Console.WriteLine(String.Format("'{0}' does not exist!", productinfo));
-                Logger.logger.Debug(String.Format("{0} does not exist", productinfo));
+                Console.WriteLine(String.Format("Does not exist!", productinfo));
+                Logger.logger.Debug(String.Format("Does not exist", productinfo));
             }
             catch (Exception ex)
             {

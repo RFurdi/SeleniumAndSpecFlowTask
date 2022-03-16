@@ -17,13 +17,13 @@ namespace SeleniumTask.Methods
             try
             {
                 element.SendKeys(value);
-                Console.WriteLine(String.Format("{0} is entered", value, nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is entered", value, nameof(element)));
+                Console.WriteLine("Text is entered");
+                Logger.logger.Debug("Text is entered");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is not entered", value, nameof(element)));
-                throw new Exception(String.Format("{0} is not entered", ex.StackTrace));
+                Logger.logger.Error("Text is not entered");
+                throw new Exception(String.Format("Text is not entered", ex.StackTrace));
             }
         }
         public static void Click(IWebElement element)
@@ -31,13 +31,13 @@ namespace SeleniumTask.Methods
             try
             {
                 element.Click();
-                Console.WriteLine(String.Format("{0} is clicked", nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is clicked", nameof(element)));
+                Console.WriteLine("Clicked");
+                Logger.logger.Debug("Clicked");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is not clicked", nameof(element)));
-                throw new Exception(String.Format("{0} is not clicked", ex.StackTrace));
+                Logger.logger.Error("Not clicked");
+                throw new Exception(String.Format("Not clicked", ex.StackTrace));
             }
         }
         public static void Submit(IWebElement element)
@@ -45,13 +45,13 @@ namespace SeleniumTask.Methods
             try
             {
                 element.Submit();
-                Console.WriteLine(String.Format("{0} is submited", nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is submited", nameof(element)));
+                Console.WriteLine("Submited");
+                Logger.logger.Debug("Submited");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is not submited", nameof(element)));
-                throw new Exception(String.Format("{0} is not submited", ex.StackTrace));
+                Logger.logger.Error("Not submited");
+                throw new Exception(String.Format("Not submited", ex.StackTrace));
             }
         }
         public static void Clear(IWebElement element)
@@ -59,13 +59,13 @@ namespace SeleniumTask.Methods
             try
             {
                 element.SendKeys(Keys.LeftControl + Keys.Backspace);
-                Console.WriteLine(String.Format("{0} is cleared", nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is cleared", nameof(element)));
+                Console.WriteLine("Cleared");
+                Logger.logger.Debug("Cleared");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is not cleared", nameof(element)));
-                throw new Exception(String.Format("{0} is not cleared", ex.StackTrace));
+                Logger.logger.Error("Not cleared");
+                throw new Exception(String.Format("Not cleared", ex.StackTrace));
             }
 
         }
@@ -75,13 +75,13 @@ namespace SeleniumTask.Methods
             try
             {
                 Assert.IsEmpty(text);
-                Console.WriteLine(String.Format("{0} is empty", nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is empty", nameof(element)));
+                Console.WriteLine("Textbox is empty");
+                Logger.logger.Debug("Textbox is empty");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is not empty", nameof(element)));
-                throw new Exception(String.Format("{0} is not empty", ex.StackTrace));
+                Logger.logger.Error("Textbox is not empty");
+                throw new Exception("Texbox is not empty");
             }
         }
         public static void Enabled(IWebElement element)
@@ -89,13 +89,13 @@ namespace SeleniumTask.Methods
             try
             {
                 Assert.IsTrue(element.Enabled);
-                Console.WriteLine(String.Format("{0} is enabled", nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is enabled", nameof(element)));
+                Console.WriteLine("Enabled");
+                Logger.logger.Debug("Enabled");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is  not enabled", nameof(element)));
-                throw new Exception(String.Format("{0} is  not enabled", ex.StackTrace));
+                Logger.logger.Error("Not enabled");
+                throw new Exception(String.Format("Not enabled", ex.StackTrace));
             }
         }
         public static void Displayed(IWebElement element)
@@ -103,13 +103,13 @@ namespace SeleniumTask.Methods
             try
             {
                 Assert.IsTrue(element.Displayed);
-                Console.WriteLine(String.Format("{0} is displayed", nameof(element)));
-                Logger.logger.Debug(String.Format("{0} is displayed", nameof(element)));
+                Console.WriteLine("Displayed");
+                Logger.logger.Debug("Displayed");
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} is  not displayed", nameof(element)));
-                throw new Exception(String.Format("{0} is  not displayed", ex.StackTrace));
+                Logger.logger.Error("Not displayed");
+                throw new Exception(String.Format("Not displayed", ex.StackTrace));
             }
         }
         public static void Start(string stepname, string stepnumber)
@@ -125,22 +125,22 @@ namespace SeleniumTask.Methods
                 string hidden = element.GetAttribute("tabindex");
                 if (hidden == "-1")
                 {
-                    Console.WriteLine(String.Format("{0} is shown.", nameof(element)));
-                    Logger.logger.Debug(String.Format("{0} is shown", nameof(element)));
+                    Console.WriteLine("Shown.");
+                    Logger.logger.Debug("Shown");
                     
                 }
                 else
                 {
-                    Console.WriteLine(String.Format("{0} is hidden.", nameof(element)));
-                    Logger.logger.Debug(String.Format("{0} is hidden", nameof(element)));
+                    Console.WriteLine("Hidden.");
+                    Logger.logger.Debug("Hidden");
                     
                 }
 
             }
             catch (Exception e)
             {
-                Logger.logger.Error(String.Format("{0} is displayed", nameof(element)));
-                throw new Exception(String.Format("Element is displayed! {0}", e.StackTrace));
+                Logger.logger.Error("Displayed");
+                throw new Exception(String.Format("Displayed! {0}", e.StackTrace));
             }
         }
 
