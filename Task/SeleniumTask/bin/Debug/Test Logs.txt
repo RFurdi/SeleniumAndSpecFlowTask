@@ -1,0 +1,4626 @@
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Correct page loaded
+DEBUG - Element (id = 72ff0c06-0638-403d-9af7-aa6071795ec5) is displayed
+DEBUG - Element (id = 72ff0c06-0638-403d-9af7-aa6071795ec5) is enabled
+DEBUG - Element (id = 72ff0c06-0638-403d-9af7-aa6071795ec5) is empty
+DEBUG - Element (id = 95fdcd3b-c973-487b-b6ae-a1de54222f99) is displayed
+DEBUG - Element (id = 95fdcd3b-c973-487b-b6ae-a1de54222f99) is enabled
+DEBUG - Element (id = 95fdcd3b-c973-487b-b6ae-a1de54222f99) is empty
+DEBUG - Element (id = 412c7e0a-7979-41cd-a0c1-98e929443f62) is displayed
+DEBUG - Element (id = 412c7e0a-7979-41cd-a0c1-98e929443f62) is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - Acceptedusernamesare:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - Element (id = c2afd5cc-96c6-4946-addb-9fbc284d1995) is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - Element (id = 9ca665d9-3a58-41e4-ae4b-e4c72287beb8) is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - Element (id = c2afd5cc-96c6-4946-addb-9fbc284d1995) is cleared
+DEBUG - Element (id = 9ca665d9-3a58-41e4-ae4b-e4c72287beb8) is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - Element (id = c2afd5cc-96c6-4946-addb-9fbc284d1995) is cleared
+DEBUG - Element (id = 9ca665d9-3a58-41e4-ae4b-e4c72287beb8) is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - Element (id = c2afd5cc-96c6-4946-addb-9fbc284d1995) is cleared
+DEBUG - Element (id = 9ca665d9-3a58-41e4-ae4b-e4c72287beb8) is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - Element (id = c4381ee6-1227-44cf-ad0e-499eb2dcfd49) is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page (https://www.saucedemo.com/)
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: https://www.saucedemo.com/
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page (https://www.saucedemo.com/)
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Exit browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+ERROR - PRODUCTS wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Exit browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+ERROR - element is not clicked
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+ERROR - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) wrong text
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+ERROR - element is  not displayed
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+ERROR - Wrong page loaded
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - element is shown
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - element is shown
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - element is hidden
+DEBUG - element is shown
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - element is hidden
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - element is hidden
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Exit browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is empty
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Robert is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Furdi is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Robert is entered
+DEBUG - Furdi is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Robert is entered
+DEBUG - secret_sauce is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - standard_user is entered
+DEBUG - Furdi is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - element is cleared
+DEBUG - element is cleared
+DEBUG - element is empty
+DEBUG - element is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - standard_user is entered
+DEBUG - secret_sauce is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - element is submited
+DEBUG - Correct page loaded
+DEBUG - Adding products to cart
+DEBUG - Step 1 - Loads page-https://www.saucedemo.com/inventory.html
+
+DEBUG - Correct page loaded
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - PRODUCTS is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART is displayed
+DEBUG - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART is displayed
+DEBUG - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART is displayed
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - © 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy is displayed
+DEBUG - Step 2 - Clicks Menu button
+
+DEBUG - element is clicked
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - element is displayed
+DEBUG - element is enabled
+DEBUG - Step 3 - Click X button.
+
+DEBUG - element is clicked
+DEBUG - element is hidden
+DEBUG - Step 4 - Clicks dropdown menu.
+
+DEBUG - element is clicked
+DEBUG - Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low) is displayed
+DEBUG - Step 5 - Clicks Sauce Labs Bike Light ADD TO CART button
+
+DEBUG - element is clicked
+DEBUG - REMOVE is displayed
+DEBUG - 1 is displayed
+DEBUG - Step 6 - Clicks Cart button:
+
+DEBUG - element is clicked
+DEBUG - Correct page loaded
+DEBUG - Exiting browser

@@ -1,0 +1,43 @@
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\nunit.engine.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\nunit.engine.api.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\nunit.engine.core.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.exe.config
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.exe
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.pdb
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\nunit.framework.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\WebDriver.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\WebDriver.Support.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\nunit.framework.xml
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.CopyComplete
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.exe
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.pdb
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\log4net.dll
+C:\Users\rober\source\repos\SeleniumTask\SeleniumTask\bin\Debug\log4net.xml
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\nunit.engine.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\nunit.engine.api.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\nunit.engine.core.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.exe.config
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.exe
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.pdb
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\log4net.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\nunit.framework.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\WebDriver.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\WebDriver.Support.dll
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\log4net.xml
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\nunit.framework.xml
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.CopyComplete
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.exe
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.pdb
+C:\Users\rober\OneDrive - ahqb\Desktop\SeleniumTask\SeleniumTask\bin\Debug\SeleniumExtras.WaitHelpers.dll
