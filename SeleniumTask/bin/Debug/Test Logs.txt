@@ -4856,3 +4856,124 @@ DEBUG - Step 19 - Submit LOGIN button
 DEBUG - Submited
 DEBUG - Correct page loaded
 DEBUG - Exit browser
+INFO - Saucedemo Test
+DEBUG - Going to URL: 'https://www.saucedemo.com/'
+DEBUG - Maximizing Browser
+DEBUG - Logging to web site
+DEBUG - Step 1 - Loads web page:https://www.saucedemo.com/
+
+DEBUG - Correct page loaded
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Textbox is empty
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Textbox is empty
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user is displayed
+DEBUG - Password for all users:
+secret_sauce is displayed
+DEBUG - Step 2 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 3 - Enter incorrect username
+
+DEBUG - Text is entered
+DEBUG - Robert is displayed
+DEBUG - Step 4 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Epic sadface: Password is required is displayed
+DEBUG - Step 5 - Clear username textbox.
+
+DEBUG - Cleared
+DEBUG - Textbox is empty
+DEBUG - Step 6 - Enter incorrect password
+
+DEBUG - Text is entered
+DEBUG - Furdi is displayed
+DEBUG - Step 7 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Epic sadface: Username is required is displayed
+DEBUG - Step 8 - Clear password textbox.
+
+DEBUG - Cleared
+DEBUG - Textbox is empty
+DEBUG - Step 9 - Enter incorrect username and incorrect password
+
+DEBUG - Text is entered
+DEBUG - Text is entered
+DEBUG - Robert is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 10 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 11 - Clear username and password textboxes.
+
+DEBUG - Cleared
+DEBUG - Cleared
+DEBUG - Textbox is empty
+DEBUG - Textbox is empty
+DEBUG - Step 12 - Enter incorrect username and correct password
+
+DEBUG - Text is entered
+DEBUG - Text is entered
+DEBUG - Robert is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 13 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 14 - Clear username and password textboxes.
+
+DEBUG - Cleared
+DEBUG - Cleared
+DEBUG - Textbox is empty
+DEBUG - Textbox is empty
+DEBUG - Step 15 - Enter correct username and incorrect password
+
+DEBUG - Text is entered
+DEBUG - Text is entered
+DEBUG - standard_user is displayed
+DEBUG - Furdi is displayed
+DEBUG - Step 16 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Displayed
+DEBUG - Enabled
+DEBUG - Epic sadface: Username and password do not match any user in this service is displayed
+DEBUG - Step 17 - Clear username and password textboxes.
+
+DEBUG - Cleared
+DEBUG - Cleared
+DEBUG - Textbox is empty
+DEBUG - Textbox is empty
+DEBUG - Step 18 - Enter correct username and correct password
+
+DEBUG - Text is entered
+DEBUG - Text is entered
+DEBUG - standard_user is displayed
+DEBUG - secret_sauce is displayed
+DEBUG - Step 19 - Submit LOGIN button
+
+DEBUG - Submited
+DEBUG - Correct page loaded
+DEBUG - Exit browser
