@@ -1,6 +1,5 @@
 ﻿using NUnit.Framework;
 using System;
-using SeleniumTask.Log;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,12 +24,12 @@ namespace SeleniumTask.Methods
             {
                 Assert.IsTrue(URL.Contains(condition), condition);
                 Console.WriteLine("Correct page loaded");
-                Logger.logger.Debug("Correct page loaded");
+                
 
             }
             catch (Exception ex)
             {
-                Logger.logger.Error("Wrong page loaded");
+                
                 throw new Exception(String.Format("Wrong page loaded", ex.StackTrace));
             }
 
@@ -42,11 +41,11 @@ namespace SeleniumTask.Methods
             {
                 StringAssert.Contains(condition, text);
                 Console.WriteLine("{0} is displayed", text);
-                Logger.logger.Debug(String.Format("{0} is displayed", text));
+                
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("{0} wrong text", text));
+                
                 throw new Exception(String.Format("{0} wrong text", ex.StackTrace));
             }
 
@@ -65,17 +64,17 @@ namespace SeleniumTask.Methods
                     if (text.Contains(productinfo))
                     {
                         Console.WriteLine(String.Format("Is displayed", productinfo));
-                        Logger.logger.Debug(String.Format("Is displayed", productinfo));
+                        
                         return;
                     }
 
                 }
                 Console.WriteLine(String.Format("Does not exist!", productinfo));
-                Logger.logger.Debug(String.Format("Does not exist", productinfo));
+                
             }
             catch (Exception ex)
             {
-                Logger.logger.Error(String.Format("No elements in container"));
+                
                 throw new Exception(String.Format("No elements in container!", ex.StackTrace));
 
             }

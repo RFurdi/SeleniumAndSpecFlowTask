@@ -72,7 +72,7 @@ namespace SpecFlowSaucedemo.StepDefinitions
             Assert.IsTrue(textMessage.Contains(Message));
             GetMethods.VerifyText(textMessage, Message);
         }
-        [Then("I shuld be navigated to Inventory page")]
+        [Then("I should be navigated to Inventory page")]
         public void InventoryPage()
         {
             GetMethods.PageLoaded(SeleniumTask.WebDriver.driver.Url, "inventory");

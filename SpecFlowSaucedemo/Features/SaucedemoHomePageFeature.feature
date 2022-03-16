@@ -1,6 +1,6 @@
 ﻿Feature: SaucedemoHomePageFeature
 
-A short summary of the feature
+I am testing Home page of Saucedemo page ot test that everything works as expected
 
 @HomePage
 Scenario: Saucedemo Home page

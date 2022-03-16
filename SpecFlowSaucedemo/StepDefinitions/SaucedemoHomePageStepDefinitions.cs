@@ -13,7 +13,7 @@ namespace SpecFlowSaucedemo.StepDefinitions
     public class SaucedemoHomePageStepDefinitions
     {
         [Given("I Logged in page")]
-        public void ILoggenInPage()
+        public void ILoggedInPage()
         {
             SeleniumTask.WebDriver.driver.Navigate().GoToUrl("https://www.saucedemo.com/");
             GetMethods.PageLoaded(SeleniumTask.WebDriver.driver.Url, "saucedemo");

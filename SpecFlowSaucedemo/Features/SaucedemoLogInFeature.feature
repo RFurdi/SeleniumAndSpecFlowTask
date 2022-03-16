@@ -1,6 +1,6 @@
 ﻿Feature: SaucedemoLogInFeature
 
-A short summary of the feature
+I am testing Login page of Saucedemo page ot test that everything works as expected
 
 @LogIn
 Scenario: Login failed
@@ -22,7 +22,7 @@ Scenario: Login successfully
 	And I entered correct Username '<CorrectUsername>'
 	And I entered correct Password '<CorrectPassword>'
 	When I submit LOGIN button
-	Then I shuld be navigated to Inventory page
+	Then I should be navigated to Inventory page
 Examples:
 	| CorrectUsername | CorrectPassword |
 	| standard_user   | secret_sauce    |

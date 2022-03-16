@@ -7,7 +7,7 @@ namespace SpecFlowSaucedemo
     public class Hooks
     {
         [BeforeScenario]
-        public static void SetUpT()
+        public static void SetUp()
         {
             Setup.Initialize();
         }
